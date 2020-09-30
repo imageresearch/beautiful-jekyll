@@ -10,7 +10,8 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://imageresearch.github.io/beautiful-jekyll"
-baseurl: "/beautiful-jekyll"
+#baseurl: "/beautiful-jekyll"
+baseurl:""
 
 
 # --- Required options --- #
