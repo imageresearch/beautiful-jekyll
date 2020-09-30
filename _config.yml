@@ -10,17 +10,17 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://imageresearch.github.io"
-baseurl: "/beautiful-jekyll"
-#baseurl:""
+#baseurl: "/beautiful-jekyll"
+baseurl:""
 
 
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Young's Image Research
 
 # Your name to show in the footer
-author: Some Person
+author: Young Kim 
 
 # --- List of links in the navigation bar --- #
 
